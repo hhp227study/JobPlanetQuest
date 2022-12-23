@@ -1,0 +1,9 @@
+<resources>
+    <string name="app_name">JobPlanetQuest</string>
+    <string name="no_result">"결과값이 없습니다."</string>
+    <string name="query_placeholder">"기업, 채용공고 검색"</string>
+    <string-array name="tab_items">
+        <item>채용</item>
+        <item>기업</item>
+    </string-array>
+</resources>
